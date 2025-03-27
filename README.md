@@ -40,7 +40,7 @@ python reliability.py --model_name ABMIL --att_path ... --anno_path ... ```
 ```
 
 **Results**
-![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_AUC.png){:width="50px"}
+![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_AUC.png){:width="5px"}
 ![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_AUPRC.png){:width="50px"}
 ![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_F1.png){:width="50px"}
 ![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_FLOPs.png){:width="50px"}
