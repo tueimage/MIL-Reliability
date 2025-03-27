@@ -2,7 +2,7 @@
 __Quantitative Evaluation of Multiple Instance Learning
 Reliability For WSIs Classification__
 
-![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/framework_.png)
+![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/figures/framework_.png)
 _<sup>The overall framework for evaluating the reliability of MIL models.</sup>_
 
 
@@ -42,8 +42,8 @@ python reliability.py --model_name ABMIL --att_path ... --anno_path ... ```
 **Results**
 
 <p align="center">
-  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_MI.png" width="400" style="display: inline-block; margin-right: 80px; vertical-align: middle;" />
-  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_Spearmans.png" width="400" style="display: inline-block; vertical-align: middle;" />
+  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/figures/bar_plot_MI.png" width="400" style="display: inline-block; margin-right: 80px; vertical-align: middle;" />
+  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/figures/bar_plot_Spearmans.png" width="400" style="display: inline-block; vertical-align: middle;" />
 </p>
 
 
