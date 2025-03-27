@@ -65,7 +65,6 @@ python reliability.py --model_name ABMIL --att_path ... --anno_path ... ```
 
 
 
-
 **Reference**
 
 Please consider citing the following paper if you find our work useful for your project.
