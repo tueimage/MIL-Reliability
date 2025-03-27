@@ -32,10 +32,10 @@ Please consider citing the following paper if you find our work useful for your 
 ```
 @misc{,
       title={Quantitative Evaluation of Multiple Instance Learning Reliability For WSIs Classification}, 
-      author={},
+      author={Hassan Keshvarikhojasteh},
       year={2024},
-      eprint={},
-      archivePrefix={},
+      eprint={2409.11110},
+      archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
 ```
