@@ -7,14 +7,13 @@ Reliability For WSIs Classification__
 _<sup>The overall framework for evaluating the reliability of MIL models.</sup>_
 
 
-This is the PyTorch implementation to compute the Reliability of MIL models.
+This is a PyTorch implementation for computing the reliability of MIL models.
 
 
 
 **Data Preparation**
 
-For the preprocessing of datasets, we adhere to [CLAM's](https://github.com/mahmoodlab/CLAM) steps. For more information, please look at the paper.
-
+For the preprocessing of datasets, we adhere to [CLAM's](https://github.com/mahmoodlab/CLAM) steps. For more details, please refer to the paper.
 
 
 **Training**
