@@ -7,4 +7,4 @@ Reliability For WSIs Classification__
 _<sup>The overall framework for evaluating the reliability of MIL models.</sup>_
 
 
-This is the PyTorch implementation of "Evaluating Multiple Instance Learning Reliability For WSIs Classification." 
+This is the PyTorch implementation to compute the Reliability of MIL models.
