@@ -13,4 +13,30 @@ This is the PyTorch implementation to compute the Reliability of MIL models.
 
 **Data Preparation**
 
-For the preprocessing of datasets, we adhere to [CLAM's](https://github.com/mahmoodlab/CLAM) steps.
+For the preprocessing of datasets, we adhere to [CLAM's](https://github.com/mahmoodlab/CLAM) steps. For more information, please look at the paper.
+
+
+
+**Training**
+
+The training can be done for different models and datasets with proper arguments.
+
+```
+python train.py --data_root_dir feat-directory --lr 1e-4 --reg 1e-5 --seed 2021 --k 5 --k_end 5 --split_dir task_camelyon16 --model_type abmil --task task_1_tumor_vs_normal --csv_path ./dataset_csv/camelyon16.csv --exp_code ABMIL  
+```
+
+
+**Reference**
+
+Please consider citing the following paper if you find our work useful for your project.
+
+```
+@misc{,
+      title={Quantitative Evaluation of Multiple Instance Learning Reliability For WSIs Classification}, 
+      author={},
+      year={2024},
+      eprint={},
+      archivePrefix={},
+      primaryClass={cs.CV}
+}
+```
