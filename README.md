@@ -32,6 +32,15 @@ After training, the model can be evaluated to compute and store patch scores usi
 python eval.py --drop_out --k 5 --k_start 0 --k_end -1  --models_exp_code ABMIL_s2021 --save_exp_code ABMIL_eval --task task_1_tumor_vs_normal --model_type abmil --results_dir results --data_root_dir ... ```
 ```
 
+**Reliability**
+
+Finally, reliability scores for the model can be calculated across all folds.
+
+```
+python reliability.py --model_name ABMIL --att_path ... --anno_path ... ```
+```
+
+
 **Reference**
 
 Please consider citing the following paper if you find our work useful for your project.
