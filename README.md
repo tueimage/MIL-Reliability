@@ -42,13 +42,13 @@ python reliability.py --model_name ABMIL --att_path ... --anno_path ... ```
 **Results**
 
 <p align="center">
-  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_AUC.png" width="50" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_AUPRC.png" width="50" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_F1.png" width="50" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_FLOPs.png" width="50" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_MI.png" width="50" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_Size.png" width="50" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_Spearmans.png" width="50" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_AUC.png" width="200" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_AUPRC.png" width="200" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_F1.png" width="200" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_FLOPs.png" width="200" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_MI.png" width="200" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_Size.png" width="200" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_Spearmans.png" width="200" style="display: inline-block; margin-right: 10px;" />
 </p>
 
 
