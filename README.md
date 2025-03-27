@@ -40,13 +40,13 @@ python reliability.py --model_name ABMIL --att_path ... --anno_path ... ```
 ```
 
 **Results**
-![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_AUC.png)
-![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_AUPRC.png)
-![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_F1.png)
-![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_FLOPs.png)
-![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_MI.png)
-![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_Size.png)
-![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_Spearmans.png)
+![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_AUC.png){:width="300px"}
+![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_AUPRC.png){:width="300px"}
+![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_F1.png){:width="300px"}
+![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_FLOPs.png){:width="300px"}
+![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_MI.png){:width="300px"}
+![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_Size.png){:width="300px"}
+![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_Spearmans.png){:width="300px"}
 
 
 **Reference**
