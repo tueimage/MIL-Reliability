@@ -21,9 +21,16 @@ For the preprocessing of datasets, we adhere to [CLAM's](https://github.com/mahm
 The training can be done for different models and datasets with proper arguments.
 
 ```
-python train.py --data_root_dir feat-directory --lr 1e-4 --reg 1e-5 --seed 2021 --k 5 --k_end 5 --split_dir task_camelyon16 --model_type abmil --task task_1_tumor_vs_normal --csv_path ./dataset_csv/camelyon16.csv --exp_code ABMIL  
+python train.py --data_root_dir feat-directory ... --lr 1e-4 --reg 1e-5 --seed 2021 --k 5 --k_end 5 --split_dir task_camelyon16 --model_type abmil --task task_1_tumor_vs_normal --csv_path ./dataset_csv/camelyon16.csv --exp_code ABMIL  
 ```
 
+**Evaluation**
+
+After training, the model can be evaluated to compute and store patch scores using the following command:
+
+```
+python eval.py --drop_out --k 5 --k_start 0 --k_end -1  --models_exp_code ABMIL_s2021 --save_exp_code ABMIL_eval --task task_1_tumor_vs_normal --model_type abmil --results_dir results --data_root_dir ... ```
+```
 
 **Reference**
 
