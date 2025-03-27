@@ -39,6 +39,15 @@ Finally, reliability scores for the model can be calculated across all folds.
 python reliability.py --model_name ABMIL --att_path ... --anno_path ... ```
 ```
 
+**Results**
+![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_AUC.png)
+![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_AUPRC.png)
+![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_F1.png)
+![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_FLOPs.png)
+![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_MI.png)
+![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_Size.png)
+![alt text](https://github.com/tueimage/MIL-Reliability/raw/main/bar_plot_Spearmans.png)
+
 
 **Reference**
 
